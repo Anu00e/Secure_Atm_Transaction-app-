@@ -48,3 +48,10 @@ Secure_Atm_Transaction(app)/
 cd server
 pip install flask flask-socketio
 python app.py
+
+
+---
+
+## License  
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.  
+You can also view it online at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
