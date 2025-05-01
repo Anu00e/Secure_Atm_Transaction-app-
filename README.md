@@ -12,6 +12,7 @@ This project simulates a secure ATM transaction system built with **Flutter and 
 
 ## 🧱 Project Structure
 Secure_Atm_Transaction(app)/ 
+
       ├── Atm/  **ATM User Interface (Flutter App)**
       ├── safe_swipe/ **Safe Swipe Mobile App (Flutter App)** 
       └── server/ **Python Backend with Socket.IO**
