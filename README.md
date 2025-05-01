@@ -3,7 +3,9 @@
 This project simulates a secure ATM transaction system built with **Flutter and Python** (Socket.IO). It contains three interconnected applications:
 
 1.**ATM Interface** – For user withdrawals and PIN verification.
+
 2.**Safe Swipe App** – For card ownership verification and secure linking.
+
 3.**Python Backend Server** – Manages user authentication, card linking, and transaction validation using Socket.IO.
 
 ---
